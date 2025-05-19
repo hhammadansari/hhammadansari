@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I build stuff out of curiosity.<br><br>If you've got a weird idea, broken code, or just wanna pretend we know what we're doing — I'm in. Let's build..... or at least try. ☕</p></br>
+<p align="left">I build stuff out of curiosity.<br><br>If you've got a weird idea, broken code, or just wanna pretend we know what we're doing — I'm in. Let's build.... or at least try☕</p></br>
 
 ###
 
