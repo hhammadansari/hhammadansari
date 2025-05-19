@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="banner.png"  />
+  <img height="150" width="800" src="banner.png"  />
 </div>
 
 ###
@@ -17,8 +17,8 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/hammadalansar1"><img src="linkedin.png" height="40" alt="linkedin logo"  /></a>
-  <a href="mailto:hammadalansarii@gmail.com"><img src="gmail.png" height="40" alt="gmail logo"  /></a>
+  <a href="https://linkedin.com/in/hammadalansar1"><img src="linkedin.png" height="30" width="120" alt="linkedin logo"  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hammadalansarii@gmail.com"><img src="gmail.png" height="30" width="120" alt="gmail logo"  /></a>
 </div></br>
 
 ###
