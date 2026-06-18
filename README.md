@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I build stuff out of curiosity.<br><br>If you've got a weird idea, broken code, or just wanna pretend we know what we're doing — I'm in. Let's build.... or at least try☕</p></br>
+<p align="left">I build stuff out of curiosity.<br><br>If you've got a weird idea, broken code, or just wanna pretend we know what we're doing — I'm in. Let's build.</p></br>
 
 ###
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/hammadalansar1"><img src="linkedin.png" height="30" width="120" alt="linkedin logo"  /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hammadalansarii@gmail.com"><img src="gmail.png" height="30" width="120" alt="gmail logo"  /></a>
+  <a href="mailto:hammadansarii@outlook.com"><img src="gmail.png" height="30" width="120" alt="gmail logo"  /></a>
 </div></br>
 
 ###
