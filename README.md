@@ -17,8 +17,8 @@ Python · JavaScript/React · SQL & relational data structures · Git
 
 ## Currently learning
 
-- **C++** — picking up lower-level programming to complement the Python/systems work above.
-- **DSA in C++** — solving LeetCode to build up data structures & algorithms fluency.
+- **C++** - picking up lower-level programming to complement the Python/systems work above.
+- **DSA in C++** - solving LeetCode to build up data structures & algorithms fluency.
 
 ## Reach me
 
