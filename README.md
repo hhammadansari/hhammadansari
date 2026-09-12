@@ -1,20 +1,18 @@
-<div align="center">
-  <img height="200" width="800" src="banner.png"  />
-</div>
+# Hi, I'm Hammad
 
-###
+## What I'm building
 
-<p align="left">I build stuff out of curiosity.<br><br>If you've got a weird idea, broken code, or just wanna pretend we know what we're doing - I'm in.</p></br>
+- **[pydb-engine](https://github.com/hhammadansari/pydb-engine)** — a database engine from
+  scratch in Python: page-based storage, a B+ tree index, a SQL parser/planner/executor,
+  and write-ahead-log crash recovery.
+- **[fikr-foods](https://github.com/hhammadansari/fikr-foods)** — a live ordering site for a
+  frozen food & bakery business (React, Vite, Tailwind, Supabase, deployed on Cloudflare
+  Workers).
 
-###
+## Comfortable with
 
-<h3 align="center">📡 Ping me on the socials:</h3>
+Python · JavaScript/React · SQL & relational data structures · Git
 
-###
+## Reach me
 
-<div align="center">
-  <a href="https://linkedin.com/in/hammadalansar1"><img src="linkedin.png" height="30" width="120" alt="linkedin logo"  /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hammadansarii@outlook.com"><img src="gmail.png" height="30" width="120" alt="gmail logo"  /></a>
-</div></br>
-
-###
+[LinkedIn](https://linkedin.com/in/hammadalansar1) · [hammadansarii@outlook.com](mailto:hammadansarii@outlook.com)
